@@ -7,7 +7,6 @@ Full-Stack Web Developer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Plugin](http://www.npmjs.com/package/grapesjs-shape-divider)
 * ✉️  You can contact me at [abhisheknanda94@gmail.com](mailto:abhisheknanda94@gmail.com)
-* 🧠  I'm learning NextJs
 * 🤝  I'm open to collaborating on Any Project matches with my skills
 
 ### Skills
